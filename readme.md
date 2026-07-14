@@ -2,7 +2,7 @@
 
 ## 🎯 Contexto e Objetivos
 
-O tema escolhido foi metodologias ágeis, pois vejo que é um tema bastante requisitado em vagas no mercado. Com esse tema vamos aprender sobre as metodologias aplicadas no mercado de trabalho para aumentar a produtividade de forma organizada mantendo qualidade.
+O tema escolhido foi metodologias ágeis, pois vejo que é um tema bastante requisitado em vagas no mercado. Com esse tema vamos aprender sobre as metodologias aplicadas no mercado de trabalho para aumentar a produtividade de forma organizada e agil, mantendo qualidade na entrega.
 
 ## 📚 Curadoria de Fontes
 
