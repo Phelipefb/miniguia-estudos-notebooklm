@@ -57,7 +57,7 @@ Aqui estão as fontes que utilizei para alimentar o NotebookLM:
    - _Ajuste necessário:_ Adicionei uma nova fonte explicando para comporta-se como um professor de metodologias ágeis para iniciantes no tema, explicando de forma clara, detalhando expressões e termos ténicos.
 
 2. _Prompt Refinado:_ "Explique as diferenças entre Scrum, Kanban e Lean."
-   - _Resultado final:_ "mbora façam parte do mesmo universo da agilidade, o Scrum, o Kanban e o Lean possuem focos e estruturas distintas para organizar o trabalho. Abaixo, explico as principais diferenças entre eles:
+   - _Resultado final:_ "Embora façam parte do mesmo universo da agilidade, o Scrum, o Kanban e o Lean possuem focos e estruturas distintas para organizar o trabalho. Abaixo, explico as principais diferenças entre eles:
 3. Scrum: Foco na Gestão de Projetos e Ciclos Fixos
    O Scrum é um framework projetado especificamente para o gerenciamento de projetos complexos
    . Ele é caracterizado por uma estrutura mais rígida e rítmica:
